@@ -1,7 +1,6 @@
 # My-Python-Projects-
-My journey into python programming 
-#મારું પેલું પ્રોજેક્ટ પાયથોન ડેવલપર તરીકેનું.
-aama aek number gesing game che jema computer aek number tharshe (vicharse) ae number ne aapde gase karvano che.
-jo aapde sacho number gesing karishu to aapano score vathse aane aapna levels pan vathse.
-aama 3 lives pan hoy che .
-tethi maru aa first project che .
+પાયથોન ગેમ્સ પ્રોજેક્ટ્સ
+આ રિપોઝિટરીમાં મારી દ્વારા પાયથોનનો ઉપયોગ કરીને બનાવવામાં આવેલી ગેમ્સ અને પ્રોગ્રામ્સ છે.
+મારી શીખવાની સફર:
+મેં આ પ્રોજેક્ટ્સ શીખતી વખતે OOP (Object Oriented Programming) અને Logic Building પર ધ્યાન આપ્યું છે.
+આ ગેમ્સમાં Random મોડ્યુલ અને While લૂપ જેવી ટેકનિકનો ઉપયોગ કર્યો છે.
